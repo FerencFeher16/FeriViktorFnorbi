@@ -1,14 +1,31 @@
- h1 {text-align: center;}
- img { width: 240px;
-    display: flex;
-    justify-content: right;
- } 
- p {font-size: 150%;
-   margin-left: 2%;
-   text-align: justify;
+h1 {
+text-align: center;
+}
+
+img {
+width: 240px;
+display: flex;
+justify-content: right;
+} 
+
+p {
+/* font-size: 150%; */
+margin-left: 2%;
+text-align: justify;
 font-weight: bolder;
 }
- li {font-size: 150%;
+
+li {
+font-size: 150%;
 text-align:justify;
 }
-body {background-color: darkorange;}
+
+body {
+background-color: #c6190d;
+}
+
+.wine-holly {
+    display: block;
+    margin: auto;
+    /* width: 450px; */
+}
