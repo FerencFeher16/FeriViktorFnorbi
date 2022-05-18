@@ -6,6 +6,7 @@ img {
 width: 240px;
 display: flex;
 justify-content: right;
+margin: 20px;
 } 
 
 p {
@@ -13,6 +14,7 @@ p {
 margin-left: 2%;
 text-align: justify;
 font-weight: bolder;
+margin: auto;
 }
 
 li {
@@ -22,10 +24,23 @@ text-align:justify;
 
 body {
 background-color: #c6190d;
+width: 1000px;
+margin: auto;
+background-image: url(gta.jpg);
+background-size: 100%;
 }
 
 .wine-holly {
     display: block;
     margin: auto;
     /* width: 450px; */
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+a:hover {
+    color: chartreuse;
 }
