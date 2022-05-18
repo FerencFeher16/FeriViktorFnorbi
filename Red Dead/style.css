@@ -1,9 +1,12 @@
-p {text-align: justify;
-color: rgb(255, 0, 0);
+p {
+    text-align: justify;
+    color: rgb(255, 0, 0);
 }
+
 ul {
     color: red;
 }
+
 body {
     background-color: black;
 }
