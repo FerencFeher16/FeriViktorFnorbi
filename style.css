@@ -23,11 +23,12 @@ text-align:justify;
 }
 
 body {
-background-color: #c6190d;
 width: 1000px;
 margin: auto;
+background-repeat: no-repeat;
+background-size: cover;
 background-image: url(gta.jpg);
-background-size: 100%; 
+/* background-size: 100%;  */
 /* background-repeat: repeat-y; */
 }
 
