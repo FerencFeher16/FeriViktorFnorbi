@@ -27,7 +27,8 @@ background-color: #c6190d;
 width: 1000px;
 margin: auto;
 background-image: url(gta.jpg);
-background-size: 100%;
+background-size: 100%; 
+/* background-repeat: repeat-y; */
 }
 
 .wine-holly {
@@ -43,4 +44,16 @@ a {
 
 a:hover {
     color: chartreuse;
+}
+
+h2 {
+    color: bisque;
+}
+
+.vilagos, li {
+    color: blanchedalmond;
+}
+
+#bright {
+    color: cornsilk;
 }
