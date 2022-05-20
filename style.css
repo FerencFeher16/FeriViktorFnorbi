@@ -25,11 +25,12 @@ text-align:justify;
 body {
 width: 1000px;
 margin: auto;
-background-repeat: no-repeat;
-background-size: cover;
+background-color: coral;
+background-position: bottom;
 background-image: url(gta.jpg);
-/* background-size: 100%;  */
-/* background-repeat: repeat-y; */
+background-size: 10%;
+background-attachment: fixed;
+background-repeat: repeat-x;
 }
 
 .wine-holly {
