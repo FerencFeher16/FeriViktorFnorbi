@@ -26,11 +26,6 @@ body {
 width: 1000px;
 margin: auto;
 background-color: coral;
-background-position: bottom;
-background-image: url(gta.jpg);
-background-size: 10%;
-background-attachment: fixed;
-background-repeat: repeat-x;
 }
 
 .wine-holly {
@@ -52,10 +47,6 @@ h2 {
     color: bisque;
 }
 
-.vilagos, li {
-    color: rgb(0, 0, 0);
-}
-
-#bright {
-    color: rgb(0, 0, 0);
+ul {
+    color: red;
 }

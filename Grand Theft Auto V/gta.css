@@ -1,0 +1,13 @@
+body {
+    background-position: bottom;
+    background-image: url(gta.jpg);
+    background-size: 10%;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+}
+
+p {
+    margin: auto;
+    text-align: justify;
+}
+
