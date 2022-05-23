@@ -1,7 +1,13 @@
-body {
-    background-position: bottom;
-    background-image: url(gta.jpg);
-    background-size: 10%;
-    background-attachment: fixed;
-    background-repeat: repeat-x;
+#zoldebb {
+    color: darkgreen;
+}
+
+#sarga {
+    color: yellow;
+}
+
+#lila {
+    color: rgb(72, 1, 72);
+    background-color: white;
+    margin-right: 600px;
 }

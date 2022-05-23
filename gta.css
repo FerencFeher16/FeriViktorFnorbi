@@ -1,20 +1,17 @@
-body {
-    background-position: bottom;
-    /* background-image: url(gta.jpg); */
-    background-size: 2em;
-    background-attachment: scroll;
-    background-repeat: repeat-x;
-}
-
 p {
     margin: auto;
     text-align: justify;
 }
 
 body {
-    background: url("gta.jpg");
+    background: url("gta0.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+
+img {
+    display: block;
+    float: right;
 }

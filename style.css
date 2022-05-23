@@ -4,9 +4,9 @@ text-align: center;
 
 img {
 width: 240px;
-display: flex;
-justify-content: right;
-margin: 20px;
+/* display: flex; */
+/* justify-content: right; */
+/* margin: 20px; */
 } 
 
 p {
