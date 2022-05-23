@@ -20,12 +20,16 @@ margin: auto;
 li {
 font-size: 150%;
 text-align:justify;
+background-color:unset;
 }
 
 body {
 width: 1000px;
 margin: auto;
-background-color: purple;
+background-image: url(Rockstar-logo.jpg);
+background-position: center;
+background-repeat: no-repeat;
+
 }
 
 
@@ -45,4 +49,10 @@ h1, h2 {
 
 p, li, table {
     color: #00ff00;
+    width: auto;
 }
+.feher {color: white;
+font-family: 'Courier New';
+font-size: 110%;
+}
+.mincs { background-color: unset;}
