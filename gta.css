@@ -1,6 +1,8 @@
 p {
     margin: auto;
     text-align: justify;
+    color: white;
+    
 }
 
 body {
@@ -14,4 +16,12 @@ body {
 img {
     display: block;
     float: right;
+}
+body {
+    margin: auto;
+    font-family: 'Courier New';
+    font-size: 1.3rem;
+}
+li {
+    color: white;
 }

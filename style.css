@@ -29,6 +29,9 @@ margin: auto;
 background-image: url(Rockstar-logo.jpg);
 background-position: center;
 background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
 
 }
 
