@@ -25,7 +25,7 @@ text-align:justify;
 body {
 width: 1000px;
 margin: auto;
-background-color: coral;
+background-color: purple;
 }
 
 .wine-holly {
@@ -43,10 +43,10 @@ a:hover {
     color: chartreuse;
 }
 
-h2 {
-    color: bisque;
+h1, h2 {
+    color: orange;
 }
 
-ul {
-    color: red;
+p, li, table {
+    color: #00ff00;
 }
