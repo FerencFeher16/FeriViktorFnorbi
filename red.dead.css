@@ -1,7 +1,8 @@
 p {
     text-align: justify;
     color: rgb(255, 0, 0);
-    margin: auto;
+    float: left;
+    
 }
 
 ul {
@@ -10,5 +11,9 @@ ul {
 
 body {
     background-color: black;
-    margin: auto;
 }
+
+#elso {
+    float: right;
+}
+#masodik {clear: right;}

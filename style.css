@@ -2,11 +2,15 @@ h1 {
 text-align: center;
 }
 
+h2 {
+    padding-left: 9px;
+}
+
 img {
 width: 240px;
-display: flex;
-justify-content: right;
-margin: 20px;
+/* display: flex; */
+/* justify-content: right; */
+/* margin: 20px; */
 } 
 
 p {
@@ -15,47 +19,47 @@ margin-left: 2%;
 text-align: justify;
 font-weight: bolder;
 margin: auto;
+padding-right: 10px;
+padding-left: 10px;
 }
 
 li {
 font-size: 150%;
 text-align:justify;
+background-color:unset;
 }
 
 body {
 width: 1000px;
 margin: auto;
-background-color: coral;
-background-position: bottom;
-background-image: url(gta.jpg);
-background-size: 10%;
+background-image: url(Rockstar-logo.jpg);
+background-position: center;
+background-repeat: no-repeat;
 background-attachment: fixed;
-background-repeat: repeat-x;
+background-size: cover;
 }
 
-.wine-holly {
-    display: block;
-    margin: auto;
-    /* width: 450px; */
-}
+
 
 a {
     text-decoration: none;
-    color: aquamarine;
+    color: rgb(11, 62, 245);
 }
 
 a:hover {
-    color: chartreuse;
+    color: rgb(208, 255, 0);
 }
 
-h2 {
-    color: bisque;
+h1, h2 {
+    color: orange;
 }
 
-.vilagos, li {
-    color: rgb(0, 0, 0);
+p, li, table {
+    color: #00ff00;
+    width: auto;
 }
-
-#bright {
-    color: rgb(0, 0, 0);
+.feher {color: white;
+font-family: 'Courier New';
+font-size: 110%;
 }
+.mincs {background-color: unset;}
