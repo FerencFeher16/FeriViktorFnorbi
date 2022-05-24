@@ -2,7 +2,14 @@ p {
     text-align: justify;
     color: rgb(255, 0, 0);
     float: left;
-    
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    color: blue;
 }
 
 ul {
@@ -16,4 +23,5 @@ body {
 #elso {
     float: right;
 }
+
 #masodik {clear: right;}
