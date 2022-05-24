@@ -2,6 +2,10 @@ h1 {
 text-align: center;
 }
 
+h2 {
+    padding-left: 9px;
+}
+
 img {
 width: 240px;
 /* display: flex; */
@@ -15,6 +19,8 @@ margin-left: 2%;
 text-align: justify;
 font-weight: bolder;
 margin: auto;
+padding-right: 10px;
+padding-left: 10px;
 }
 
 li {
@@ -31,8 +37,6 @@ background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
-
-
 }
 
 
@@ -58,4 +62,4 @@ p, li, table {
 font-family: 'Courier New';
 font-size: 110%;
 }
-.mincs { background-color: unset;}
+.mincs {background-color: unset;}

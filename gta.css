@@ -2,7 +2,6 @@ p {
     margin: auto;
     text-align: justify;
     color: white;
-    
 }
 
 body {
@@ -24,4 +23,13 @@ body {
 }
 li {
     color: white;
+}
+
+.lila {
+    background-color: indigo;
+    margin-right: 200px;
+}
+
+#lila {
+    background-color: indigo;
 }
