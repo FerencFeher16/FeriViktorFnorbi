@@ -4,9 +4,7 @@ p {
     float: left;
 }
 
-h1 {
-    text-align: center;
-}
+
 
 h1, h2 {
     color: blue;
@@ -24,4 +22,12 @@ body {
     float: right;
 }
 
-#masodik {clear: right;}
+#masodik {clear: right;
+width: 500px;
+}
+a {
+   color: rgb(0, 26, 255); 
+}
+a:hover {
+    color: red;
+}

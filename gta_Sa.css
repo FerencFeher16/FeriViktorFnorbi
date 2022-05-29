@@ -8,6 +8,22 @@
 
 #lila {
     color: rgb(72, 1, 72);
-    background-color: white;
     margin-right: 600px;
+}
+body {
+margin: auto;
+background-image: url(SA.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+font-family: 'Courier New';
+font-size: 1.3rem;
+font-weight: bolder;
+text-align: justify;
+}
+.fehér {
+    color: rgb(0, 0, 0);
+    background-color: rgba(87, 87, 87, 0.432);
+    color: white;
 }

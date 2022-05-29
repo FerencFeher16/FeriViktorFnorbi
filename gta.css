@@ -10,6 +10,7 @@ body {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    
 }
 
 img {
@@ -30,4 +31,10 @@ li {
 .lila {
     background-color: indigo;
     margin-right: 200px;
+}
+.osszes {
+    background-color: rgba(129, 129, 129, 0.397);
+}
+footer {
+    color:white;
 }
