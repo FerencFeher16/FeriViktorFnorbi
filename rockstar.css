@@ -2,3 +2,9 @@ nav {
     font-size: 10px;
     color: white;
 }
+a:hover {
+    color: yellow;
+}
+.wine-holly {
+    width: 500px;
+}
